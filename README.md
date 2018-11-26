@@ -1,2 +1,3 @@
 # Hello-GitHub
-Say hi to GitHub
+Hi GitHub
+First commit.
